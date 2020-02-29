@@ -7,3 +7,5 @@
 
 ### Download
 Download package [here](https://github.com/talanc/followmee-n9/raw/master/dist/followmee_1.0.1_armel.deb).
+
+It's also available on OpenRepos [here](https://openrepos.net/content/talan/followmee).
