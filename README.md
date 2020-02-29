@@ -4,3 +4,6 @@
 <p><img src="screenshots/screenshot-followmee1.png" alt="Screenshot 1" width="150px" />
 <img src="screenshots/screenshot-followmee2.png" alt="Screenshot 2" width="150px" />
 <img src="screenshots/screenshot-followmee3.png" alt="Screenshot 3" width="150px" /></p>
+
+### Download
+Download package [here](https://github.com/talanc/followmee-n9/raw/master/dist/followmee_1.0.1_armel.deb).
