@@ -255,7 +255,7 @@ Item {
         message: "© 2014\nLicenced under GPLv2\n\nSource code available on website"
         acceptButtonText: "Website"
         rejectButtonText: "Close"
-        onAccepted: Qt.openUrlExternally("https://bitbucket.org/talanc/followmee")
+        onAccepted: Qt.openUrlExternally("https://github.com/talanc/followmee-n9")
     }
 
     InfoBanner {

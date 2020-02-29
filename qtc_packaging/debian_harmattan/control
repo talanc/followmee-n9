@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Thomas Copeland <talan.copeland@gmail.com>
 Build-Depends: debhelper (>= 5), libqt4-dev
 Standards-Version: 3.7.3
-Homepage: https://bitbucket.org/talanc/followmee
+Homepage: https://github.com/talanc/followmee-n9
 
 Package: followmee
 Architecture: any
